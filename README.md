@@ -6,7 +6,9 @@ A compact gallery of handwashing movement recognition, hand localization, and a 
 
 Run `python3 -m http.server 8000` from this folder and open http://localhost:8000.
 
-This repository is private. GitHub Pages is not enabled.
+Website: https://zhouxu-lab.github.io/handwashing/
+
+This repository and its GitHub Pages website are public.
 
 ## Media credits
 
